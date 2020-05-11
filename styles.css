@@ -1,0 +1,78 @@
+body{
+  background-color:#EAF6F6;
+
+}
+.name{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #66BFBF;
+  background-color: #EAF6F6;
+margin: 0;
+border: 0;
+}
+.myimage{
+  border-radius:100%;
+
+}
+.skills{
+
+  text-align: center;
+  background-color: white;
+  align-content: center;
+
+
+}
+#nagai{
+  align-content: center;
+
+  text-align: center;
+
+}
+table{
+  text-align: center;
+}
+hr{
+  width: 10%;
+  align-content: center;
+  border-top:1px dotted black;
+  height:1px;
+
+}
+.foot{
+  align-content: center;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: #66BFBF;
+}
+.intro{
+  background-color: white;
+  text-align: center;
+  text-decoration-color: #40514E;
+  position: relative;
+  line-height: 0;
+}
+.image{
+  background-color: #EAF6F6;
+  margin: 0;
+  border:0;
+}
+.img1{
+  width: 300px;
+  margin-left: 800px;
+  height: 100px;
+  position: relative;
+}
+.img2{
+  width: 200px;
+  margin-left: 200px;
+  position: relative;
+}
+.img3{
+  position:static;
+  background-color: #EAF6F6;
+}
+.intro{
+  margin: 20 0 30 0;
+}
