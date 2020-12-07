@@ -52,6 +52,7 @@ h2{
   text-decoration-color: #40514E;
   position: relative;
   line-height: 0;
+  width: 100%;
 }
 .image{
   background-color: #EAF6F6;
