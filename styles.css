@@ -19,7 +19,7 @@ border: 0;
   text-align: center;
   background-color: white;
   align-content: center;
-
+  width: auto;
 
 }
 #nagai{
@@ -50,7 +50,7 @@ h2{
   background-color: white;
   text-align: center;
   text-decoration-color: #40514E;
-  position: relative;
+
   line-height: 0;
   width: 100%;
 }
